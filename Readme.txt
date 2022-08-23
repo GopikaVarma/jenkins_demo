@@ -1,1 +1,1 @@
-this is a sample file created to test jenkins and clone from git
+this is a sample file created to test jenkins.
